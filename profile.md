@@ -23,7 +23,7 @@ updated: null
 - [个人习惯与沟通要求](memory/personal/INDEX.md)
 - [人物与关系](memory/people/INDEX.md)
 - [教育、工作及生活经历](memory/experiences/INDEX.md)
-- [当前状态](now.md)
+- [未完结事务](todo/INDEX.md)
 - [项目索引](projects/INDEX.md)
 
 ## 来源
