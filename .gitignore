@@ -1,0 +1,9 @@
+# 本地临时资料与系统文件
+.local/
+.DS_Store
+Thumbs.db
+
+# 本地凭证文件
+.env
+.env.*
+!.env.example
