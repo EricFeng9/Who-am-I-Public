@@ -1,6 +1,10 @@
 # Who-am-I
 
+**简体中文** | [English](README.en.md)
+
 **Agent-first Personal Context Repository** · 面向 AI Agent 的个人上下文仓库
+
+![Who-am-I 中文架构图](assets/architecture-zh.png)
 
 将个人背景、经历、关系、事件、决策、对话、项目和任务保存在自己控制的 Markdown 文件中，让不同 AI Agent 按需读取相关上下文，提供有针对性的帮助，并在授权范围内持续维护记忆。
 
@@ -66,7 +70,7 @@ Agent 将协助完成框架复制、目标仓库初始化、权限确认、个�
 
 | 文件或目录 | 内容 |
 | --- | --- |
-| [README.md](README.md) | 使用说明、部署和跨平台配置 |
+| [README.md](README.md) / [README.en.md](README.en.md) | 使用说明、部署和跨平台配置 |
 | [AGENTS.md](AGENTS.md) | Agent 检索、维护、主动跟进及隐私规则 |
 | [INDEX.md](INDEX.md) | 全局导航 |
 | [profile.md](profile.md) | 核心个人背景 |
